@@ -1,0 +1,12 @@
+{
+  "name": "Cube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "watch": "node-sass -o css scss/style.scss -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
