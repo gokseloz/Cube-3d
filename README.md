@@ -1,10 +1,20 @@
 ## 3d Cube
+<ul>
+<li>A project from an Online Course</li>
+</ul>
 
 ## Why did I do this?
 <ul>
-<li>I like to do such projects that motivate and also improve me. Therefore, I discover different techniques, learn something new and these are some of my mottos in my frontend journey.
+<li>I like to do such projects that motivate and as well as improve me.
 </li>
- </ul>
+</ul>
+ Therefore, I discover different techniques, learn something new and these are some of my mottos in my frontend journey.
+## What did I learn from this project?
+<ul>
+<li>Some Advanced CSS especially for the 3D environment</li>
+<li>JavaScript codes to create 3D slideshow </li>
+<li>Play and pause functions with JavaScript</li>
+</ul>
 
 ## How did I do this?
 ### Technologies
