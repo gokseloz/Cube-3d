@@ -1,31 +1,22 @@
 ## 3d Cube
-<ul>
-<li>A project from an Online Course</li>
-</ul>
+- A website made by following an online course
+- Vast majority of the codes I implemented by myself
+- When I got stuck and could not find out any way to solve the problem, I took a look at the completed project's code or search online
 
 ## Why did I do this?
-<ul>
-<li>I like to do such projects that motivate and as well as improve me.
-</li>
-</ul>
- Therefore, I discover different techniques, learn something new and these are some of my mottos in my frontend journey.
+- I made this project in order to practice in JS and CSS, especially in 3D environment and effects
+
 ## What did I learn from this project?
-<ul>
-<li>Some Advanced CSS especially for the 3D environment</li>
-<li>JavaScript codes to create 3D slideshow </li>
-<li>Play and pause functions with JavaScript</li>
-</ul>
+- Advanced CSS especially for the 3D environment
+- JavaScript codes to create 3D slideshow
+- Manipulating play and pause functions with JavaScript
 
 ## How did I do this?
 ### Technologies
-<ul>
-<li>Project is created with: HTML, CSS & JavaScript.</li>
-<li>For CSS: LESS preprocessor is applied. In order to compile LESS files to CSS, node-sass with npm is utilized.</li>
-<li>For JS: Jquery</li>
-</ul>
+- HTML, CSS & JavaScript
+- For CSS: LESS preprocessor is applied. In order to compile LESS files to CSS, node-sass with npm is utilized
+- For JS: Jquery is applied
 
 ## Live demo
-<ul> 
-<li><a href="https://cube-3d.gokseloz.vercel.app/" target="_blank">See Live</a></li>
-</ul>
+- [See live demo](https://cube-3d.gokseloz.vercel.app)
 
